@@ -1,0 +1,248 @@
+body {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+
+  .img {
+      margin: 0 auto;
+      width: 100%;
+      height: 70  0px;
+  }
+
+  .img-right-1{
+      padding-left: 5px;
+      float: right;
+      padding-bottom: 30px;
+      width: 500px;
+      height: 335px;
+      margin: 10px;
+  }
+  
+  .img-right-2{
+
+    padding-left: 5px;
+      float: left;
+
+      width: 450px;
+      height: 235px;
+      margin: 10px;
+
+      
+  }
+
+
+  .img-right-3 {
+      padding-left: 10px;   
+      float: right;
+      padding-bottom: 30px;
+      width: 500px;
+      height: 335px;
+      margin: 10px;
+
+  }
+  .img-right-1:hover , .img-right-2:hover , .img-right-3:hover , .rightt1:hover , .rightt2:hover , .rightt3:hover{
+      transform: scale(1.05);
+      transition: all 1s;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .nav-item:hover{
+      transform: scale(1.2);
+      transition: all 1s;
+  }
+  .nav-item{
+      margin: 7px;
+      font-size: 20px;
+      
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .text-start1{
+      color: black;
+      padding: 20px;
+      
+      font-size: 20px;
+  }
+  
+  .text-start{
+      color:white;
+      
+      margin-top: 400px;
+      font-size: 50px;
+      border-bottom: 10px  100px solid white;
+  }
+
+ 
+
+  H2 {
+      text-align: center;
+    
+  
+  }
+
+  .text-start2{
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    
+  }
+
+  .text-start2:hover{
+    transform: scale(1.05);
+    transition: all 1s;
+  }
+
+ 
+
+ 
+  
+
+  
+
+  .dropdown-menu{
+   font-size: 15px;
+  }
+
+
+
+  .rightt1 {
+
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+  } 
+
+  .rightt2 {
+
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+  } 
+
+
+.rightt3{
+
+  margin: 10px;
+  background-color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+.card{
+ margin-top: 50px;
+ 
+ float: right;
+ padding-bottom: 10px;
+ margin: 30px;
+
+}
+
+.card:hover{
+ transform: scale(1.05);
+ transition: all 1s;
+ transition-timing-function: linear;
+ transition-delay: 10px;
+}
+
+.aboutus :hover{
+ transform: scale(1.05);
+ transition: all 1s;
+ transition-timing-function: linear;
+}
+
+
+
+footer{
+ width: 100%;
+ height: 220px;
+ background-color: rgb(172, 172, 172);
+ margin-top: 30px;
+}
+p.text_hasan{
+width: 400px;
+float: left;
+text-align: justify;
+}
+p.hasan_king{
+width: 500px;
+text-align: justify;
+margin-left: 100px;
+float: left;
+}
+i{
+margin-top: 30px;
+transition: all 0.8s;
+color: white;
+margin-left: 40px;
+font-size: 40px;
+}
+i.fa-telegram:hover{
+margin-top: 30px;
+transition: all 0.8s;
+color:rgb(57, 116, 255);
+margin-left: 40px;
+font-size: 40px;
+}
+i.fa-instagram-square:hover{
+color: purple;
+margin-left: 40px;
+font-size: 40px;
+margin-top: 30px;
+transition: all 0.8s;
+}
+i.fa-twitter-square:hover{
+margin-top: 30px;
+transition: all 0.8s;
+color:rgb(79, 231, 255);
+margin-left: 40px;
+font-size: 40px;
+}
+i.fa-youtube-square:hover{ 
+margin-left: 40px;
+font-size: 40px;
+}
+i.fa-facebook-square:hover{
+margin-top: 30px;
+transition: all 0.8s;
+color:rgb(8, 0, 255);
+margin-left: 40px;
+font-size: 40px;
